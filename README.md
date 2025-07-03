@@ -51,7 +51,7 @@ How to clean and model HR data in Power BI
   [HR Dashboard Screenshot](https://github.com/Arpitakaushal/HR-Analytics-Dashboard/blob/main/hr%20analyst%20ss.png)
 
   Video Walkthrough
-  [Click to Watch](https://youtube.com/your-video-link)
+  [Click to Watch](https://youtu.be/7Vj4e81uoto?si=cYe1W8EStOivOGez)
 
   Conclusion-
   This HR Analytics Dashboard is a powerful business intelligence solution that gives HR leaders the ability to:
